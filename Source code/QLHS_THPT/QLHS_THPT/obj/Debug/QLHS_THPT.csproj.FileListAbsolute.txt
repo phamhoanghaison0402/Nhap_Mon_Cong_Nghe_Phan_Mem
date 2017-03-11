@@ -1,0 +1,103 @@
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.exe.config
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.csprojResolveAssemblyReference.cache
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmConnection.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmDangNhap.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmDoiMatKhau.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmLoaiNguoiDung.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmMain.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNguoiDung.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Properties.Resources.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.csproj.GenerateResource.Cache
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.exe
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.pdb
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.exe
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.pdb
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmMonHoc.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmHocKy.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmGiaoVien.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmChuongTrinhHoc.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmKhoiLop.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmHocSinh.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Reports.frptDanhSachLopHoc.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\RdlCompile.cache
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\RdlCompile.compiled
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmXemDiem.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.exe.config
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.exe
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.pdb
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.csprojResolveAssemblyReference.cache
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmConnection.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmDangNhap.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmDoiMatKhau.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmQuyDinh.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmChuongTrinhHoc.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmGiaoVien.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmHocKy.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmHocSinh.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmKhoiLop.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmLoaiDiem.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmLoaiNguoiDung.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmLop.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmMain.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmMonHoc.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNamHoc.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNguoiDung.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNhapDiem.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNhapDiemChung.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmXemDiem.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Properties.Resources.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Reports.frptDanhSachLopHoc.resources
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.csproj.GenerateResource.Cache
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\RdlCompile.cache
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\RdlCompile.compiled
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.exe
+C:\Users\son09_000\Desktop\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.pdb
+E:\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.exe.config
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.exe
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.pdb
+E:\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.exe
+E:\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.pdb
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.csprojResolveAssemblyReference.cache
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmConnection.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmDangNhap.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmDoiMatKhau.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Component.frmQuyDinh.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmChuongTrinhHoc.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmGiaoVien.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmHocKy.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmHocSinh.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmKhoiLop.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmLoaiDiem.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmLoaiNguoiDung.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmLop.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmMain.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmMonHoc.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNamHoc.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNguoiDung.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNhapDiem.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNhapDiemChung.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmXemDiem.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Properties.Resources.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Reports.frptDanhSachLopHoc.resources
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.csproj.GenerateResource.Cache
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\RdlCompile.cache
+E:\QLHS_THPT\QLHS_THPT\obj\Debug\RdlCompile.compiled
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Reports.frptKetQuaBaoCaoHocKy.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.exe.licenses
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmTimKiemHS.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.Reports.frptBaoCaoTongKetMon.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmQuyDinhToanTruong.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmNhapDiemHS.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.FrmLapDsLop.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.FrmKBNamHoc.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmCapNhatChuongTrinhHoc.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmLoaiHinhKiemTra.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmXepLop.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmChuyenLop.resources
+C:\Users\Win 8.1 Version 2\Desktop\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.frmCapNhatDiemHS.resources
+E:\Đồ Án 2015\Đồn án NMCNPM\Source code\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.exe.config
+E:\Đồ Án 2015\Đồn án NMCNPM\Source code\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.exe
+E:\Đồ Án 2015\Đồn án NMCNPM\Source code\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.pdb
+F:\IT\Đồ Án 2015\Đồn án NMCNPM\Source code\QLHS_THPT\QLHS_THPT\bin\Debug\QLHS_THPT.exe.config
+F:\IT\Đồ Án 2015\Đồn án NMCNPM\Source code\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.exe
+F:\IT\Đồ Án 2015\Đồn án NMCNPM\Source code\QLHS_THPT\QLHS_THPT\obj\Debug\QLHS_THPT.pdb
